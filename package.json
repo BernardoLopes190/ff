@@ -1,0 +1,31 @@
+{
+  "name": "vsl-truque-japones",
+  "version": "1.0.0",
+  "description": "VSL - Truque Japonês - Página de vendas com vídeo",
+  "main": "Index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/Index.html",
+    "build": "echo 'Build completed - static HTML project'",
+    "dev": "live-server --port=3000 --open=/Index.html",
+    "serve": "live-server --port=3000"
+  },
+  "keywords": [
+    "vsl",
+    "video-sales-letter",
+    "landing-page",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Juliano",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BernardoLopes190/ff.git"
+  },
+  "homepage": "https://github.com/BernardoLopes190/ff#readme"
+} 
