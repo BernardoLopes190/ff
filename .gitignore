@@ -22,6 +22,10 @@
 node_modules/
 npm-debug.log*
 
+# Build do Vite
+dist/
+.vite/
+
 # Arquivos do sistema
 .DS_Store
 Thumbs.db 
